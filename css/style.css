@@ -21,7 +21,7 @@
 
 .item {
     height: 100%;
-    display: none;
+   
     
 }
 
@@ -39,6 +39,7 @@
     height: 300px;
     background: #000;
     position: relative;
+    width: 20%;
 }
 
 .thumb {
@@ -72,6 +73,7 @@
 }
 
 .next {
+    
     bottom: 0;
 }
 
